@@ -1,0 +1,6 @@
+module BaterieSimulation
+typeinfo appBaterieSimulation.qmltypes
+prefer :/qt/qml/BaterieSimulation/
+Main 254.0 Main.qml
+depends QtQuick
+

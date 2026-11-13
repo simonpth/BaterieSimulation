@@ -1,0 +1,8 @@
+module BaterieSimulation
+typeinfo appBaterieSimulation.qmltypes
+prefer :/qt/qml/BaterieSimulation/
+Main 254.0 Main.qml
+BasicGraph 254.0 BasicGraph.qml
+SimulatedBatteryGraph 254.0 SimulatedBatteryGraph.qml
+depends QtQuick
+

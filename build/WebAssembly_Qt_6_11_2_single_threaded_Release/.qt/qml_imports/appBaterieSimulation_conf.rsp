@@ -1,0 +1,14 @@
+-rootPath
+/home/simonpth/BaterieSimulation
+-cmake-output
+-output-file
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/.qt/qml_imports/appBaterieSimulation_conf.cmake
+-importPath
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release
+-importPath
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/BaterieSimulation
+-importPath
+/home/simonpth/Qt/6.11.2/wasm_singlethread/qml
+-qrcFiles
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/.qt/rcc/qmake_BaterieSimulation.qrc
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/.qt/rcc/appBaterieSimulation_raw_qml_0.qrc

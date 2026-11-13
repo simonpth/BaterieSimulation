@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BaterieSimulation/">
+    <file alias="Main.qml">/home/simonpth/BaterieSimulation/Main.qml</file>
+  </qresource>
+</RCC>
+

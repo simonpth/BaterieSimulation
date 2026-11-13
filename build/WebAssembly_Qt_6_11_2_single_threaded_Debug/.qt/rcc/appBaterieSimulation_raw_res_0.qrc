@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="/qt/qml/BaterieSimulation/">
+    <file alias="CSV/chart-1.csv">/home/simonpth/BaterieSimulation/CSV/chart-1.csv</file>
+    <file alias="CSV/chart-10.csv">/home/simonpth/BaterieSimulation/CSV/chart-10.csv</file>
+    <file alias="CSV/chart-11.csv">/home/simonpth/BaterieSimulation/CSV/chart-11.csv</file>
+    <file alias="CSV/chart-12.csv">/home/simonpth/BaterieSimulation/CSV/chart-12.csv</file>
+    <file alias="CSV/chart-13.csv">/home/simonpth/BaterieSimulation/CSV/chart-13.csv</file>
+    <file alias="CSV/chart-14.csv">/home/simonpth/BaterieSimulation/CSV/chart-14.csv</file>
+    <file alias="CSV/chart-15.csv">/home/simonpth/BaterieSimulation/CSV/chart-15.csv</file>
+    <file alias="CSV/chart-16.csv">/home/simonpth/BaterieSimulation/CSV/chart-16.csv</file>
+    <file alias="CSV/chart-17.csv">/home/simonpth/BaterieSimulation/CSV/chart-17.csv</file>
+    <file alias="CSV/chart-18.csv">/home/simonpth/BaterieSimulation/CSV/chart-18.csv</file>
+    <file alias="CSV/chart-19.csv">/home/simonpth/BaterieSimulation/CSV/chart-19.csv</file>
+    <file alias="CSV/chart-2.csv">/home/simonpth/BaterieSimulation/CSV/chart-2.csv</file>
+    <file alias="CSV/chart-20.csv">/home/simonpth/BaterieSimulation/CSV/chart-20.csv</file>
+    <file alias="CSV/chart-21.csv">/home/simonpth/BaterieSimulation/CSV/chart-21.csv</file>
+    <file alias="CSV/chart-22.csv">/home/simonpth/BaterieSimulation/CSV/chart-22.csv</file>
+    <file alias="CSV/chart-23.csv">/home/simonpth/BaterieSimulation/CSV/chart-23.csv</file>
+    <file alias="CSV/chart-24.csv">/home/simonpth/BaterieSimulation/CSV/chart-24.csv</file>
+    <file alias="CSV/chart-25.csv">/home/simonpth/BaterieSimulation/CSV/chart-25.csv</file>
+    <file alias="CSV/chart-26.csv">/home/simonpth/BaterieSimulation/CSV/chart-26.csv</file>
+    <file alias="CSV/chart-3.csv">/home/simonpth/BaterieSimulation/CSV/chart-3.csv</file>
+    <file alias="CSV/chart-4.csv">/home/simonpth/BaterieSimulation/CSV/chart-4.csv</file>
+    <file alias="CSV/chart-5.csv">/home/simonpth/BaterieSimulation/CSV/chart-5.csv</file>
+    <file alias="CSV/chart-6.csv">/home/simonpth/BaterieSimulation/CSV/chart-6.csv</file>
+    <file alias="CSV/chart-7.csv">/home/simonpth/BaterieSimulation/CSV/chart-7.csv</file>
+    <file alias="CSV/chart-8.csv">/home/simonpth/BaterieSimulation/CSV/chart-8.csv</file>
+    <file alias="CSV/chart-9.csv">/home/simonpth/BaterieSimulation/CSV/chart-9.csv</file>
+  </qresource>
+</RCC>
+

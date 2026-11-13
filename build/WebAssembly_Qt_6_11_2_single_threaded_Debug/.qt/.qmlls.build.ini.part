@@ -1,0 +1,3 @@
+[<SLASH>home<SLASH>simonpth<SLASH>BaterieSimulation]
+importPaths="/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug:/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug/BaterieSimulation:/home/simonpth/Qt/6.11.2/wasm_singlethread/qml"
+resourceFiles="/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug/.qt/rcc/qmake_BaterieSimulation.qrc:/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug/.qt/rcc/appBaterieSimulation_raw_qml_0.qrc:/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug/.qt/rcc/appBaterieSimulation_raw_res_0.qrc"

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appBaterieSimulation_FILE /home/simonpth/BaterieSimulation/build/Desktop_Qt_6_11_2_Debug/appBaterieSimulation)
+set(__QT_DEPLOY_TARGET_appBaterieSimulation_TYPE EXECUTABLE)

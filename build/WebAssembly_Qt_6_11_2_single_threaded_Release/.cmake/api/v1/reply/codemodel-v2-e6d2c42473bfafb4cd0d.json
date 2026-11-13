@@ -1,0 +1,214 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-81e7f72459233e0fcb4f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BaterieSimulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Release-7d46b2a316cd882a8142.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-1369561c4aefb20f0232.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-34b65e85243fa50cd09c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-786f657d252fb57b91cc.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-22a3adfc6c105b1c324c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation-Release-5e4f0284ee6c89913887.json",
+					"name" : "appBaterieSimulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_autogen-Release-42f3cbc84942157662e7.json",
+					"name" : "appBaterieSimulation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_autogen_timestamp_deps-Release-7a838778f98005936215.json",
+					"name" : "appBaterieSimulation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_copy_qml-Release-c4c55d0fc4ec782a8cef.json",
+					"name" : "appBaterieSimulation_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_copy_res-Release-e560119eca44b9fecc24.json",
+					"name" : "appBaterieSimulation_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint-Release-253a68b95bf360da5a21.json",
+					"name" : "appBaterieSimulation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint_json-Release-6e4e048602f275f407ad.json",
+					"name" : "appBaterieSimulation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint_module-Release-52c7895301ea37cd184f.json",
+					"name" : "appBaterieSimulation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmltyperegistration-Release-812e90ea86cfe75c8ca3.json",
+					"name" : "appBaterieSimulation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Release-22eba6307994aabd6cb4.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Release-27d6c57001a1c805fc93.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Release-84bf7a195eb594e12158.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appBaterieSimulation_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appBaterieSimulation_aotstats_target-Release-e46208a140e4d6885bba.json",
+					"name" : "module_appBaterieSimulation_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release",
+		"source" : "/home/simonpth/BaterieSimulation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

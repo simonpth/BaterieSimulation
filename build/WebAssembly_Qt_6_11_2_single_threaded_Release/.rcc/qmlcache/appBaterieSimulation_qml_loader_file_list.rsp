@@ -1,0 +1,5 @@
+--resource
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/.qt/rcc/qmake_BaterieSimulation.qrc
+--resource
+/home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Release/.qt/rcc/appBaterieSimulation_raw_qml_0.qrc
+/qt/qml/BaterieSimulation/Main.qml

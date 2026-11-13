@@ -1,0 +1,67 @@
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/CMakeDetermineSystem.cmake:12 (find_program)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "program"
+    variable: "CMAKE_UNAME"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "uname"
+    candidate_directories:
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/sbin/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/bin/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/sbin/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/"
+      - "/home/linuxbrew/.linuxbrew/bin/"
+      - "/home/linuxbrew/.linuxbrew/sbin/"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin/"
+      - "/home/simonpth/.local/bin/"
+      - "/home/simonpth/bin/"
+      - "/usr/local/bin/"
+      - "/usr/bin/"
+      - "/bin/"
+    searched_directories:
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/sbin/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/bin/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/sbin/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader/uname"
+      - "/home/linuxbrew/.linuxbrew/bin/uname"
+      - "/home/linuxbrew/.linuxbrew/sbin/uname"
+      - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin/uname"
+      - "/home/simonpth/.local/bin/uname"
+      - "/home/simonpth/bin/uname"
+      - "/usr/local/bin/uname"
+    found: "/usr/bin/uname"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64"
+        - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/lib/VulkanLoader"
+      ENV{PATH}:
+        - "/home/linuxbrew/.linuxbrew/bin"
+        - "/home/linuxbrew/.linuxbrew/sbin"
+        - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin"
+        - "/home/linuxbrew/.linuxbrew/bin"
+        - "/home/linuxbrew/.linuxbrew/sbin"
+        - "/home/simonpth/.local/bin"
+        - "/home/simonpth/bin"
+        - "/home/simonpth/VulkanSDK/1.4.357.1/x86_64/bin"
+        - "/usr/local/bin"
+        - "/usr/bin"
+        - "/bin"
+...

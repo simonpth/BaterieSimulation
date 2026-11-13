@@ -1,0 +1,170 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "datapoint"
+                }
+            ],
+            "className": "Datapoint",
+            "gadget": true,
+            "lineNumber": 11,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 15,
+                    "member": "mDateTime",
+                    "name": "dateTime",
+                    "override": false,
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QDateTime",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 16,
+                    "member": "mNetzbezug",
+                    "name": "netzbezug",
+                    "override": false,
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 17,
+                    "member": "mEinspeisung",
+                    "name": "einspeisung",
+                    "override": false,
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
+            "qualifiedClassName": "Datapoint"
+        },
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                },
+                {
+                    "name": "QML.Singleton",
+                    "value": "true"
+                }
+            ],
+            "className": "Data",
+            "lineNumber": 25,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 35,
+                    "name": "readFile",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "paths",
+                            "type": "QList<QUrl>"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 36,
+                    "name": "readFiles",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "lineNumber": 29,
+                    "name": "files",
+                    "notify": "filesChanged",
+                    "override": false,
+                    "read": "files",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<QUrl>",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "lineNumber": 30,
+                    "name": "datapoints",
+                    "notify": "datapointsChanged",
+                    "override": false,
+                    "read": "datapoints",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<Datapoint>",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
+            "qualifiedClassName": "Data",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 44,
+                    "name": "filesChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 45,
+                    "name": "datapointsChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "data.h",
+    "outputRevision": 69
+}

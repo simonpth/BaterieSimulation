@@ -1,0 +1,223 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-216116876dfffe911b97.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BaterieSimulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-9e56a0c94cc0ce77ecc1.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ce5536232b1586bba0f7.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-5f19f7140b1f3618374c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-0d201a7e73ea50bd3084.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b45c09e27a09aa5111a8.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation-Debug-95c01a95ecb876dbb12c.json",
+					"name" : "appBaterieSimulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_autogen-Debug-d08e5579fe0249bace24.json",
+					"name" : "appBaterieSimulation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_autogen_timestamp_deps-Debug-0de2c818d19dc5deebd0.json",
+					"name" : "appBaterieSimulation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_copy_qml-Debug-51859760017828e8e42c.json",
+					"name" : "appBaterieSimulation_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_copy_res-Debug-2bfb7412ff6eb4e18732.json",
+					"name" : "appBaterieSimulation_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmlimportscan-Debug-19e00ba51c7a408be571.json",
+					"name" : "appBaterieSimulation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint-Debug-8e28f75a39e9d5fa7614.json",
+					"name" : "appBaterieSimulation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint_json-Debug-4f60e62f500a48bc6695.json",
+					"name" : "appBaterieSimulation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmllint_module-Debug-8d1d56fb8bc941955933.json",
+					"name" : "appBaterieSimulation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBaterieSimulation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBaterieSimulation_qmltyperegistration-Debug-873b6a1f636d041a2df5.json",
+					"name" : "appBaterieSimulation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-921e537e0736f6d20508.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-a7cc0cdfb102e18c2343.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-c0f8dcdb850fbe6eb603.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appBaterieSimulation_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appBaterieSimulation_aotstats_target-Debug-b1b5be09cb0759fea4d2.json",
+					"name" : "module_appBaterieSimulation_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/simonpth/BaterieSimulation/build/Desktop_Qt_6_11_2_Debug",
+		"source" : "/home/simonpth/BaterieSimulation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

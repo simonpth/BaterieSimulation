@@ -1,0 +1,9 @@
+--resource
+/home/simonpth/BaterieSimulation/build/Desktop_Qt_6_11_2_Debug/.qt/rcc/qmake_BaterieSimulation.qrc
+--resource
+/home/simonpth/BaterieSimulation/build/Desktop_Qt_6_11_2_Debug/.qt/rcc/appBaterieSimulation_raw_qml_0.qrc
+--resource
+/home/simonpth/BaterieSimulation/build/Desktop_Qt_6_11_2_Debug/.qt/rcc/appBaterieSimulation_raw_res_0.qrc
+/qt/qml/BaterieSimulation/Main.qml
+/qt/qml/BaterieSimulation/BasicGraph.qml
+/qt/qml/BaterieSimulation/SimulatedBatteryGraph.qml

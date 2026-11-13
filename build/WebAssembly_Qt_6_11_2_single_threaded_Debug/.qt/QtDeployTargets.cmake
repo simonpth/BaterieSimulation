@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appBaterieSimulation_FILE /home/simonpth/BaterieSimulation/build/WebAssembly_Qt_6_11_2_single_threaded_Debug/appBaterieSimulation.js)
+set(__QT_DEPLOY_TARGET_appBaterieSimulation_TYPE EXECUTABLE)
